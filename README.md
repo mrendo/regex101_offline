@@ -23,7 +23,7 @@ I'm not affiliated with regex101.com, but credit to @firasdib ([github](https://
 ```sudo dnf install -y wget```
 
 ###### PACMan based
- ```sudo pacman -S```
+ ```sudo pacman -S wget```
 
 ##### Windows
 Please download wget from this location
